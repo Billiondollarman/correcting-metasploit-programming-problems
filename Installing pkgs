@@ -1,0 +1,18 @@
+When correcting programming problems 
+such as missing gems and bundle versions
+make sure to write the programming code
+like the following:
+
+Example instead of 
+gem install simplecov-0.18.2
+You have to write;
+gem install simplecov -v 0.18.2
+
+For some reason I've noticed a lot of 
+people do not explain this which may be 
+something they don't think about or most
+programmers already know but I know this
+can be helpful for a lot of people that
+are still getting programming errors or
+having a difficult time installing the
+pkgs that they need to install.
